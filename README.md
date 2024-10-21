@@ -6,6 +6,8 @@
 ![chat 1](https://github.com/user-attachments/assets/1d1e77ba-febd-49ea-903d-5f2a4bdfc88f)
 ![chat 4](https://github.com/user-attachments/assets/daebbda1-f671-4f84-bc9e-a2a03e0a203f)
 ![chat 7](https://github.com/user-attachments/assets/bebfd1aa-e460-4f64-a379-2bcdc2f63c4d)
+![courses 1](https://github.com/user-attachments/assets/e6fd2810-0b9c-4e31-bf7f-ec10028b76f0)
+![courses](https://github.com/user-attachments/assets/75b339c9-0c6b-4f17-80ab-19e4d8243487)
 
 
 
