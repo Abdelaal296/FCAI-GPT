@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "885445644447",
+    "project_id": "fcai-gpt",
+    "storage_bucket": "fcai-gpt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885445644447:android:99dd4227462d64020b92aa",
+        "android_client_info": {
+          "package_name": "com.example.fcai_gpt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr8gQov6QUfHLdjmN13PHeYWhCoD3XtcU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
